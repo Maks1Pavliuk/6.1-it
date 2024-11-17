@@ -1,0 +1,6 @@
+﻿  test1.cpp
+C:\Users\yande\source\repos\6.1\6.1\Source.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/test1.cpp')
+  
+     Creating library C:\Users\yande\source\repos\6.1\x64\Debug\test1.lib and object C:\Users\yande\source\repos\6.1\x64\Debug\test1.exp
+  test1.vcxproj -> C:\Users\yande\source\repos\6.1\x64\Debug\test1.dll
